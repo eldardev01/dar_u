@@ -1,0 +1,5 @@
+<bean id="employee" class="home2.model.Employee">
+    <constructor-arg value="Jane Doe"/>
+    <constructor-arg value="28"/>
+    <constructor-arg value="HR"/>
+</bean>
